@@ -52,6 +52,7 @@ What could be the offering of Cloud Services-:
  - Security Patches
 
 **Configuration Management**
- - Yet need to decide.
+ - Setup and install packages and libraries required.
+ - Allow user to setup chef or puppet to manage their configurations.
  
 This Document is still in very early phase. Anyone is wants to add, comment, delete or suggestions most welcome. Lots of research needs to be done on this. ANy suggestions are welcome.
