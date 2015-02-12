@@ -10,6 +10,9 @@ Benefits
  - Increase visibility into your operations improving collaboration and efficiency
  - Free up resources to focus on new strategic initiatives that would not otherwise be possible.
  - Benefit from 24/7 availability without any additional overhead
+ - Increase in scalability across Infrastructure, Platform, DB.
+ - Ease in on-demand customizations of system.
+ - Significant decrease in cost. PAY-AS-YOU-USE.
 
 
 What could be the offering of Cloud Services-:
